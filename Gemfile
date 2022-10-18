@@ -8,3 +8,4 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 
 gem "jekyll-feed", "~> 0.9"
 gem "jekyll-seo-tag", "~> 2.1"
+gem 'jekyll-archives'
